@@ -1,1 +1,2 @@
-https://freertos.org/a00106.html
+freeRTOS: https://freertos.org/a00106.html
+Github link FreeRTOS-LTS https://github.com/FreeRTOS/FreeRTOS-LTS
